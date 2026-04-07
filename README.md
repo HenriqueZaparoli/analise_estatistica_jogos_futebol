@@ -1,4 +1,3 @@
-# analise_estatistica_jogos_futebol
 
 # 📊 Análise Estatística de Jogos de Futebol
 
